@@ -1,0 +1,14 @@
+.all {
+    padding: 80px 0;
+    background-color: #f1f1f1;
+   }
+   .card {
+    text-align: center;
+  
+   }
+   .card img {
+    height: 200px;
+   }
+   .card h5 {
+      font-size: 14px;
+   }
